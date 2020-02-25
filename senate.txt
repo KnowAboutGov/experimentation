@@ -1,0 +1,961 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- [if lt IE 7]> <html class="ie6 oldie"> <![endif] --><!-- [if IE 7]>    <html class="ie7 oldie"> <![endif] --><!-- [if IE 8]>    <html class="ie8 oldie"> <![endif] --><!-- [if gt IE 8]> <! --><html class="">
+<!-- <![endif] -->
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="object" content="index.xml">
+<meta name="version" content="58.1">
+<meta name="path" content="/Company Home/Sites/senategov/documentLibrary/Senate.gov/senators">
+<meta name="date" content="Thursday, January 3, 2019">
+<meta name="time" content="12:35:36 PM EST">
+<meta name="keywords" content="">
+<meta name="bucket" content="senators">
+<meta name="description" content="">
+<title>U.S. Senate: Senators</title>
+<link type="image/x-icon" rel="shortcut icon" href="/resources/images/us_sen.ico">
+<link type="text/css" rel="stylesheet" href="/resources/styles/boilerplate.css">
+<link type="text/css" rel="stylesheet" href="/resources/styles/main.css">
+<link type="text/css" rel="stylesheet" href="/resources/styles/nav_menu.css">
+<link type="text/css" rel="stylesheet" href="/resources/styles/skdslider.css">
+<link type="text/css" rel="stylesheet" href="/resources/fonts/gFonts.css?family=Source+Sans+Pro:400,300,600,700,300italic,400italic,600italic,700italic">
+<link type="text/css" rel="stylesheet" href="/resources/fonts/gFonts.css?family=Source+Serif+Pro:400,600,700">
+<link type="text/css" rel="stylesheet" href="/resources/fonts/gFonts.css?family=Libre+Baskerville:400,400italic,700">
+<link rel="stylesheet" href="/resources/fonts/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="/resources/styles/print.css">
+<link type="text/css" rel="stylesheet" href="/resources/styles/content.css">
+<!-- [if lt IE 9]> <script src="/resources/scripts/html5shiv.js"></script> <![endif] --> 
+  
+<script type="text/javascript">
+
+function MM_goToURL() { //v3.0
+  var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
+  for (i=0; i<(args.length-1); i+=2) eval(args[i]+".location='"+args[i+1]+"'");
+}
+
+</script>
+    <script type="text/javascript">
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script><script src="/resources/scripts/jquery-1.11.3.min.js"></script><script src="/resources/scripts/skdslider.min.js"></script><script src="/resources/scripts/main.js"></script><script src="/resources/scripts/floor_status.js"></script>
+</head>
+<body onload="myFunction()">
+<a href="#skip" class="offscreen">Skip Content</a>
+<header class="mobilehead clearfix">
+<div id="top-header">
+        <div id="find-sen" class="row">
+          <div id="flag" class="fluid "><img src="/resources/images/usFlag.png" alt="U.S. Flag" /></div>
+          <div id="sen-dropdown-container" class="fluid ">
+          <form name="findSenators" method="post">
+            <label for="findsenator" />
+            <select name="stateName" class="arrow" id="findsenator" onChange="MM_jumpMenu('parent',this,0)">
+              <option value="/general/contact_information/senators_cfm.cfm">Find Your Senators</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AL">Alabama</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AK">Alaska</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AZ">Arizona</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=AR">Arkansas</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=CA">California</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=CO">Colorado</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=CT">Connecticut</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=DE">Delaware</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=FL">Florida</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=GA">Georgia</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=HI">Hawaii</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=ID">Idaho</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=IL">Illinois</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=IN">Indiana</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=IA">Iowa</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=KS">Kansas</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=KY">Kentucky</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=LA">Louisiana</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=ME">Maine</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MD">Maryland</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MA">Massachusetts</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MI">Michigan</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MN">Minnesota</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MS">Mississippi</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MO">Missouri</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=MT">Montana</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NE">Nebraska</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NV">Nevada</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NH">New Hampshire</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NJ">New Jersey</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NM">New Mexico</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NY">New York</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=NC">North Carolina</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=ND">North Dakota</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=OH">Ohio</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=OK">Oklahoma</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=OR">Oregon</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=PA">Pennsylvania</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=RI">Rhode Island</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=SC">South Carolina</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=SD">South Dakota</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=TN">Tennessee</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=TX">Texas</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=UT">Utah</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=VT">Vermont</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=VA">Virginia</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WA">Washington</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WV">West Virginia</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WI">Wisconsin</option>
+              <option value="/general/contact_information/senators_cfm.cfm?State=WY">Wyoming</option>
+            </select>
+          </form>
+        </div>
+          <div id="watch" class="fluid">
+			<div class="fluid watch_text"><span class="fa fa-video-camera"></span>&nbsp;&nbsp;<a id="floorlink" target="_blank"><span id="contentdata"></span></a></div>
+          </div>
+          </div>
+        </div>
+      </div>
+	  
+	  <div id="main-header">
+<div class="row">
+
+<div id="logo">
+	<a href="/index.htm"><img src="/resources/images/senate_logo.png" alt="United States Senate Logo" border="0"/></a>
+</div>
+
+ <div id="search-elements" class="fluid "> 
+	<form name="search" id="search" action="/general/search/search_central_sb.cfm" method="GET">
+          <label for="search"><span class="fa fa-search" onClick="document.getElementById('search').submit();"></span></label>
+          <input type="text" name="query" value="Search" id="search3" onfocus="this.value=''" />
+<input type="hidden" value="1" name="col" /> 
+          <INPUT type="hidden" name="xsl" value="xml" />
+	  <!--<input type="text" name="q" value="Search" id="search" onfocus="this.value=''" />
+	  <input type="hidden" name="site" value="default_collection" />
+	  <input type="hidden" name="num" value="10" />
+	  <INPUT type="hidden" name="filter" value="0" />-->
+	</form>
+  </div>
+
+</div>
+</div>
+<div class="nav">
+<div id="nav-head-bg"></div>
+<div class="row">
+<nav id="main-nav" class="fluid ">
+<label for="drop" class="toggle">MENU<span class="fa fa-bars"></span></label><input type="checkbox" id="drop">
+<ul class="menu">
+<li class="senatorsmenu">
+<label for="drop-1" class="plus-minus mobile-plus"></label><a href="/senators/index.htm" class="selected">
+      SENATORS</a>
+<input type="checkbox" id="drop-1"/>
+  <ul class="senatorsmenusub">
+	<li><a href="/senators/contact">Contact</a></li>
+        <li><a href="/senators/leadership.htm">Leadership</a></li>
+        <li><a href="/senators/former_senators.htm">Former Senators</a></li>
+        <li><a href="/senators/qualifications_termsofservice.htm">Qualifications &amp; Terms of Service</a></li>
+        <li><a href="/senators/facts_milestones.htm">Facts &amp; Milestones</a></li>
+	  
+          <li><a href="/states/statesmap.htm">States</a></li>
+  </ul>
+</li>
+<li class="committeesmenu">
+<label for="drop-2" class="plus-minus mobile-plus"></label><a href="/committees/committees_home.htm">
+      COMMITTEES</a>
+<input type="checkbox" id="drop-2"/>
+  <ul class="committeesmenusub">
+	<li><a href="/committees/membership_assignments.htm">Membership &amp; Assignments </a></li>
+	  <li><a href="/committees/hearings_meetings.htm">Hearings &amp; Meetings</a></li>
+	  <li><a href="/committees/history.htm">History</a></li>
+  </ul>
+</li>
+<li class="legislationmenu">
+<label for="drop-3" class="plus-minus mobile-plus"></label><a href="/legislative/legislative_home.htm">
+    LEGISLATION &amp; RECORDS</a>
+<input type="checkbox" id="drop-3"/>
+	<ul class="legislationmenusub">
+		<li><a href="/legislative/bills_acts_laws.htm">Bills, Acts, &amp; Laws</a></li>
+	  <li><a href="/legislative/nominations_new.htm">Nominations</a></li>
+	  <li><a href="/legislative/treaties_new.htm">Treaties</a></li>
+	  <li><a href="/legislative/votes_new.htm">Votes</a></li>
+          <li><a href="/legislative/floor_activity_pail.htm">Floor Proceedings</a></li>
+	  <li><a href="/legislative/rules_procedure.htm">Rules &amp; Procedure</a></li>
+	  <li><a href="/legislative/landmark_legislation.htm">Landmark Legislation</a></li>
+	  <li><a href="/legislative/sessions_of_congress.htm">Sessions of Congress</a></li>
+	  
+	  <li><a href="/legislative/lobbyingdisc.htm#lobbyingdisc=lda">Public Disclosure</a></li>
+	  </ul>
+</li>
+<li class="artmenu">
+<label for="drop-4" class="plus-minus mobile-plus"></label><a href="/art/art_hist_home.htm">
+    ART &amp; HISTORY</a>
+<input type="checkbox" id="drop-4"/>
+    	<ul class="artmenusub">
+        	<li>
+            <label for="drop-44" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/people.htm">People</a>
+                  <input type="checkbox" id="drop-44"/>
+                  <ul class="tertiary-menu">
+                  	<li><a href="/history/officers.htm">Officers &amp; Staff</a></li>
+        			<li><a href="/history/leader.htm">Party Leadership</a></li>
+        			<li><a href="/history/senators.htm">Senators</a></li>
+        			<li><a href="/history/featured_biographies.htm">Featured Biographies</a></li>
+                  </ul>
+            
+            </li>
+            <li> 
+                  <label for="drop-45" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/origins.htm">Institution</a>
+                  <input type="checkbox" id="drop-45"/>
+                  	<ul class="tertiary-menu">
+                    <li><a href="/history/instdev.htm">Origins &amp; Development</a></li>
+                    <li><a href="/history/powers.htm">Powers &amp; Procedures</a></li>
+                    <li><a href="/history/chronology.htm#chronology=y1787_1800">Chronology</a></li>
+                    <li><a href="/history/partydiv.htm">Party Division</a></li>
+                  	</ul>
+                    
+            </li>
+            <li>
+            <label for="drop-46" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/essays.htm">Senate Stories</a>
+                  <input type="checkbox" id="drop-46"/>
+                  	<ul class="tertiary-menu">
+                    	<li><a href="/history/1787.htm">1787-1800</a></li>
+        				<li><a href="/history/1801.htm">1801-1850</a></li>
+        				<li><a href="/history/1851.htm">1851-1877</a></li>
+        				<li><a href="/history/1878.htm">1878-1920</a></li>
+        				<li><a href="/history/1921.htm">1921-1940</a></li>
+        				<li><a href="/history/1941.htm">1941-1963</a></li>
+        				<li><a href="/history/1964.htm">1964-present</a></li>
+                    </ul>
+            </li>
+			<li>
+          	<label for="drop-47" class="plus-minus mobile-plus"> </label>
+                  <a class="drop-link" href="/history/oralhistory.htm">Oral History Project</a>
+                  <input type="checkbox" id="drop-47"/>
+                  	<ul class="tertiary-menu">
+                    	<li><a href="/history/OralHistoryList.htm">List of Interviews</a></li>
+                    </ul>
+          </li>
+          <li><a href="/art/exhibits.htm">Special Features</a></li>
+		  <li><a href="/art/paintings.htm">Paintings</a></li>
+		  <li><a href="/art/sculpture.htm">Sculpture</a></li>
+		  <li><a href="/art/graphicarts.htm">Prints, Drawings &amp; Photographs</a></li>
+          <li><a href="/art/collections.htm">Furniture & Decorative Art</a></li>
+          <li><a href="/art/ephemera.htm">Ephemera & Historical Objects</a></li>
+          
+      	</ul>
+</li>
+<li class="referencemenu">
+<label for="drop-5" class="plus-minus mobile-plus"></label><a href="/reference/reference_home.htm">
+    REFERENCE</a>
+<input type="checkbox" id="drop-5"/>
+	<ul class="referencemenusub">
+		<li><a href="/reference/virtual.htm">Virtual Reference Desk</a></li>
+	  <li><a href="/reference/stats_and_lists.htm">Statistics &amp; Lists</a></li>
+	  <li><a href="/reference/biblio.htm">Bibliographies</a></li>
+	  <li><a href="/reference/howto.htm">How To...</a></li>
+          <li><a href="/reference/glossary.htm">Glossary</a></li>
+	  <li><a href="/reference/org_chart.htm">Senate Organization</a></li>
+	  <li><a href="/civics/constitution_item/constitution.htm">The Constitution</a></li>
+	  <li><a href="/visiting/procurement.htm">Procurement</a></li>
+	  <li>
+	  <label for="drop-55" class="plus-minus mobile-plus"> </label>
+			  <a class="drop-link" href="/visiting/employment.htm">Employment &amp; Internships</a>
+			  <input type="checkbox" id="drop-55"/>
+				<ul class="tertiary-menu">
+					<li><a href="/visiting/po.htm">Placement Office</a></li>
+					<li><a href="/employment/saa/positions.htm">Sergeant at Arms</a></li>
+					<li><a href="/employment/SOS_HR/positions_sos.htm">Secretary of the Senate</a></li>
+				</ul>
+	  </li>
+	  <li><a href="/visiting/index.htm">Visiting</a></li>
+	</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+<div id="watch_mobile" class="fluid  watch_text"><span class="fa fa-video-camera"></span>&nbsp;&nbsp;<a id="floorlink_mobile" target="_blank"><span id="contentdata_mobile"></span></a></div>
+<main class="gridContainer clearfix">
+<div id="secondary_col2" class="fluid">
+<section class="fluid " id="senators_header">
+<h1>Senators</h1>
+<div id="h1_action_icons" class="fluid"><a href="javascript:if(window.print)window.print()"><i class="fa fa-print"></i></a>
+    <!--<a href="index.html"><i class="fa fa-share"></i></a>-->
+</div>
+<hr class="fluid">
+</section>
+<!--
+      BEGIN MAIN
+    -->
+<span tabindex="-1" id="skip"></span>
+<div>
+<div>
+<div style="float:left; width:49%; min-width:300px; padding-right:25px;">
+<div style="height:185px; background-color:#f6f6f6; border-color:#ffffff; border-style:solid;">
+<a href="/general/contact_information/senators_cfm.cfm">
+<div style="font-size:20px;">Contact 116th Congress</div>
+<div style="float:left; padding:10px">
+<img width="120px" height="79px" border="0" src="/senators/resources/graphic/telephone.jpg" alt="Telephone"></div>
+<div class="contenttext">
+<p>Current senators' contact information as well as links to related information such as biographical profiles, statistics, and salaries.</p>
+</div>
+</a>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+<div style="height:185px; background-color:#f6f6f6; border-color:#ffffff; border-style:solid;">
+<a href="/senators/leadership.htm">
+<div style="font-size:20px;">Leadership &amp; Officers</div>
+<div style="float:left; padding:10px">
+<img width="120px" height="79px" border="0" src="/senators/resources/graphic/senators_leadership.jpg" alt="Majority Leader Byrd &amp; Minority Leader Baker"></div>
+<div class="contenttext">
+<p>Current Senate leaders and officers as well as links to historical essays, lists, and artwork depicting former leaders.</p>
+</div>
+</a>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+<div style="height:185px; background-color:#f6f6f6; border-color:#ffffff; border-style:solid;">
+<a href="/senators/former_senators.htm">
+<div style="font-size:20px;">Former Senators</div>
+<div style="float:left; padding:10px">
+<img width="120px" height="79px" border="0" src="/senators/resources/graphic/senators_former.jpg" alt="Appropriations Committee, 1950s"></div>
+<div class="contenttext">
+<p>Links to historical lists and statistics, art work, images, and research collections of former senators.</p>
+</div>
+</a>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="float:left; width:47%; min-width:300px;">
+<div style="height:185px; background-color:#f6f6f6; border-color:#ffffff; border-style:solid;">
+<a href="/senators/qualifications_termsofservice.htm">
+<div style="font-size:20px;">Qualifications &amp; Terms of Service</div>
+<div style="float:left; padding:10px">
+<img width="120px" height="79px" border="0" src="/senators/resources/graphic/qualifications_termsofservice.jpg" alt="Constitution"></div>
+<div class="contenttext">
+<p>Information on the requirements to become a senator, a senator's term of service, and the oath of office.</p>
+</div>
+</a>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+<div style="height:185px; background-color:#f6f6f6; border-color:#ffffff; border-style:solid;">
+<a href="/senators/facts_milestones.htm">
+<div style="font-size:20px;">Facts &amp; Milestones</div>
+<div style="float:left; padding:10px">
+<img width="120px" height="79px" border="0" src="/senators/resources/graphic/senators_factsmilestones.jpg" alt="Senator Brooke's Congressional Gold Medal"></div>
+<div class="contenttext">
+<p>Links to biographical information, Senate service accomplishments, military service, awards and honors, and more for current and former senators.</p>
+</div>
+</a>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+<div style="height:185px; background-color:#f6f6f6; border-color:#ffffff; border-style:solid;">
+<a href="/states">
+<div style="font-size:20px;">States in the Senate</div>
+<div style="float:left; padding:10px">
+<img width="120px" height="79px" border="0" src="/artandhistory/history/resources/graphic/small/state_s_website_new.jpg" alt="States in the Senate map"></div>
+<div class="contenttext">
+<p>Lists of all senators from each state and facts about each state's history in the U.S. Senate.</p>
+</div>
+</a>
+<div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+<div style="padding-top:10px; font-size:80%;">
+<footer_text>Images: Telephone; <a href="/artandhistory/history/common/image/ConstitutionImage.htm">U.S. Constitution</a>; <A href="/artandhistory/history/common/image/ByrdRobert_BakerHoward.htm">Senate leaders Byrd &amp; Baker</A>; <a href="/artandhistory/history/common/image/GlennJohn_GoldMedal.htm">John Glenn receives medal</a>; <a href="/artandhistory/history/common/image/AppropriationsCommittee.htm">Appropriations Committee</a>
+</footer_text>
+</div>
+<div>
+<hr style="border-color:#B3B3B3; padding-bottom:5px;">
+</div>
+<div style="clear:both"></div>
+<div style="padding-top:10px; font-size:80%;">
+<footer_text>
+<a class="mobile-show" href="/senators/index.htm#morelinks">Additional Information about Current Senators</a>
+</footer_text>
+</div>
+<div>
+<hr style="border-color:#B3B3B3; padding-bottom:5px;">
+</div>
+<div style="font-size:20px; color:#979797;" align="center">116th Congress</div>
+<!--****** senators_cfm.xml Version: 1009.1 was generated at: Thursday, February 6, 2020: 3:24 PM EST in folder: /Company Home/Sites/senategov/documentLibrary/Senate.gov/general/contact_information **--><link type="text/css" rel="stylesheet" href="/resources/styles/jquery.dataTables.min.css"><link type="text/css" rel="stylesheet" href="/resources/styles/responsive.dataTables.min.css"><script type="text/javascript" src="/resources/scripts/jquery-1.12.4.js" language="javascript"></script><script type="text/javascript" src="/resources/scripts/jquery.dataTables.min.js" language="javascript"></script><script type="text/javascript" src="/resources/scripts/dataTables.responsive.min.js" language="javascript"></script><script type="text/javascript" class="init">
+           $(document).ready(function() {
+            	$('#listOfSenators').DataTable( {   
+                        responsive: true,
+                        "iDisplayLength": 100,
+                        "language" : {
+                            "lengthMenu": "Show _MENU_",
+                            "info": "Showing _START_ to _END_ of _TOTAL_ Current Senators",
+                            "infoFiltered":   "(filtered from _MAX_ total)",
+                        }
+
+                   } );
+            } );
+       </script><style>
+            @media only screen and (min-width: 970px) {
+ .mobile-show {display: none; !important; }}
+            </style><table width="100%" id="listOfSenators" class="display compact nowrap" cellspacing="0">
+<thead>
+<tr align="left">
+<th style="color:#4B4B4B" align="left">Senator's Name (Party-State)</th><th style="color:#4B4B4B" align="left">State</th><th style="color:#4B4B4B" align="left">Party</th><th style="color:#4B4B4B" align="left">Class</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.alexander.senate.gov/">Alexander, Lamar (R-TN)</a></td><td>Tennessee</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.baldwin.senate.gov/">Baldwin, Tammy (D-WI)</a></td><td>Wisconsin</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.barrasso.senate.gov">Barrasso, John (R-WY)</a></td><td>Wyoming</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.bennet.senate.gov">Bennet, Michael F. (D-CO)</a></td><td>Colorado</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="https://www.blackburn.senate.gov">Blackburn, Marsha (R-TN)</a></td><td>Tennessee</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.blumenthal.senate.gov">Blumenthal, Richard (D-CT)</a></td><td>Connecticut</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.blunt.senate.gov">Blunt, Roy (R-MO)</a></td><td>Missouri</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.booker.senate.gov">Booker, Cory A. (D-NJ)</a></td><td>New Jersey</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.boozman.senate.gov/">Boozman, John (R-AR)</a></td><td>Arkansas</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="https://www.braun.senate.gov">Braun, Mike (R-IN)</a></td><td>Indiana</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.brown.senate.gov/">Brown, Sherrod (D-OH)</a></td><td>Ohio</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.burr.senate.gov">Burr, Richard (R-NC)</a></td><td>North Carolina</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.cantwell.senate.gov">Cantwell, Maria (D-WA)</a></td><td>Washington</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.capito.senate.gov">Capito, Shelley Moore (R-WV)</a></td><td>West Virginia</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.cardin.senate.gov/">Cardin, Benjamin L. (D-MD)</a></td><td>Maryland</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.carper.senate.gov">Carper, Thomas R. (D-DE)</a></td><td>Delaware</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.casey.senate.gov/">Casey, Robert P., Jr. (D-PA)</a></td><td>Pennsylvania</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.cassidy.senate.gov">Cassidy, Bill (R-LA)</a></td><td>Louisiana</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.collins.senate.gov">Collins, Susan M. (R-ME)</a></td><td>Maine</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.coons.senate.gov/">Coons, Christopher A. (D-DE)</a></td><td>Delaware</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.cornyn.senate.gov/">Cornyn, John (R-TX)</a></td><td>Texas</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.cortezmasto.senate.gov">Cortez Masto, Catherine (D-NV)</a></td><td>Nevada</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.cotton.senate.gov">Cotton, Tom (R-AR)</a></td><td>Arkansas</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="https://www.cramer.senate.gov">Cramer, Kevin (R-ND)</a></td><td>North Dakota</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.crapo.senate.gov">Crapo, Mike (R-ID)</a></td><td>Idaho</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.cruz.senate.gov">Cruz, Ted (R-TX)</a></td><td>Texas</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.daines.senate.gov">Daines, Steve (R-MT)</a></td><td>Montana</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.duckworth.senate.gov">Duckworth, Tammy (D-IL)</a></td><td>Illinois</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.durbin.senate.gov">Durbin, Richard J. (D-IL)</a></td><td>Illinois</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.enzi.senate.gov">Enzi, Michael B. (R-WY)</a></td><td>Wyoming</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.ernst.senate.gov">Ernst, Joni (R-IA)</a></td><td>Iowa</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.feinstein.senate.gov">Feinstein, Dianne (D-CA)</a></td><td>California</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.fischer.senate.gov">Fischer, Deb (R-NE)</a></td><td>Nebraska</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.gardner.senate.gov">Gardner, Cory (R-CO)</a></td><td>Colorado</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.gillibrand.senate.gov">Gillibrand, Kirsten E. (D-NY)</a></td><td>New York</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.lgraham.senate.gov/">Graham, Lindsey (R-SC)</a></td><td>South Carolina</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.grassley.senate.gov">Grassley, Chuck (R-IA)</a></td><td>Iowa</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.harris.senate.gov">Harris, Kamala D. (D-CA)</a></td><td>California</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.hassan.senate.gov">Hassan, Margaret Wood (D-NH)</a></td><td>New Hampshire</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="https://www.hawley.senate.gov">Hawley, Josh (R-MO)</a></td><td>Missouri</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.heinrich.senate.gov/">Heinrich, Martin (D-NM)</a></td><td>New Mexico</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.hirono.senate.gov/">Hirono, Mazie K. (D-HI)</a></td><td>Hawaii</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.hoeven.senate.gov">Hoeven, John (R-ND)</a></td><td>North Dakota</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="https://www.hydesmith.senate.gov/">Hyde-Smith, Cindy (R-MS)</a></td><td>Mississippi</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.inhofe.senate.gov/">Inhofe, James M. (R-OK)</a></td><td>Oklahoma</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.ronjohnson.senate.gov/">Johnson, Ron (R-WI)</a></td><td>Wisconsin</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="https://www.jones.senate.gov">Jones, Doug (D-AL)</a></td><td>Alabama</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.kaine.senate.gov/">Kaine, Tim (D-VA)</a></td><td>Virginia</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.kennedy.senate.gov">Kennedy, John (R-LA)</a></td><td>Louisiana</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.king.senate.gov/">King, Angus S., Jr. (I-ME)</a></td><td>Maine</td><td>Independent</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.klobuchar.senate.gov/">Klobuchar, Amy (D-MN)</a></td><td>Minnesota</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.lankford.senate.gov">Lankford, James (R-OK)</a></td><td>Oklahoma</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.leahy.senate.gov/">Leahy, Patrick J. (D-VT)</a></td><td>Vermont</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.lee.senate.gov/">Lee, Mike (R-UT)</a></td><td>Utah</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="https://www.loeffler.senate.gov">Loeffler, Kelly (R-GA)</a></td><td>Georgia</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.manchin.senate.gov/">Manchin, Joe, III (D-WV)</a></td><td>West Virginia</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.markey.senate.gov/">Markey, Edward J. (D-MA)</a></td><td>Massachusetts</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.mcconnell.senate.gov/">McConnell, Mitch (R-KY)</a></td><td>Kentucky</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="https://www.mcsally.senate.gov">McSally, Martha (R-AZ)</a></td><td>Arizona</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.menendez.senate.gov/">Menendez, Robert (D-NJ)</a></td><td>New Jersey</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.merkley.senate.gov">Merkley, Jeff (D-OR)</a></td><td>Oregon</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.moran.senate.gov">Moran, Jerry (R-KS)</a></td><td>Kansas</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.murkowski.senate.gov/">Murkowski, Lisa (R-AK)</a></td><td>Alaska</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.murphy.senate.gov/">Murphy, Christopher (D-CT)</a></td><td>Connecticut</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.murray.senate.gov/">Murray, Patty (D-WA)</a></td><td>Washington</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.paul.senate.gov">Paul, Rand (R-KY)</a></td><td>Kentucky</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.perdue.senate.gov">Perdue, David (R-GA)</a></td><td>Georgia</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.peters.senate.gov">Peters, Gary C. (D-MI)</a></td><td>Michigan</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.portman.senate.gov">Portman, Rob (R-OH)</a></td><td>Ohio</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.reed.senate.gov/">Reed, Jack (D-RI)</a></td><td>Rhode Island</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.risch.senate.gov">Risch, James E. (R-ID)</a></td><td>Idaho</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.roberts.senate.gov/">Roberts, Pat (R-KS)</a></td><td>Kansas</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="https://www.romney.senate.gov">Romney, Mitt (R-UT)</a></td><td>Utah</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="https://www.rosen.senate.gov">Rosen, Jacky (D-NV)</a></td><td>Nevada</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.rounds.senate.gov">Rounds, Mike (R-SD)</a></td><td>South Dakota</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.rubio.senate.gov">Rubio, Marco (R-FL)</a></td><td>Florida</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.sanders.senate.gov/">Sanders, Bernard (I-VT)</a></td><td>Vermont</td><td>Independent</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.sasse.senate.gov">Sasse, Ben (R-NE)</a></td><td>Nebraska</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.schatz.senate.gov">Schatz, Brian (D-HI)</a></td><td>Hawaii</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.schumer.senate.gov/">Schumer, Charles E. (D-NY)</a></td><td>New York</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.rickscott.senate.gov/">Scott, Rick (R-FL)</a></td><td>Florida</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.scott.senate.gov/">Scott, Tim (R-SC)</a></td><td>South Carolina</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.shaheen.senate.gov">Shaheen, Jeanne (D-NH)</a></td><td>New Hampshire</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.shelby.senate.gov/">Shelby, Richard C. (R-AL)</a></td><td>Alabama</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="https://www.sinema.senate.gov">Sinema, Kyrsten (D-AZ)</a></td><td>Arizona</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="https://www.smith.senate.gov">Smith, Tina (D-MN)</a></td><td>Minnesota</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.stabenow.senate.gov/">Stabenow, Debbie (D-MI)</a></td><td>Michigan</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.sullivan.senate.gov">Sullivan, Dan (R-AK)</a></td><td>Alaska</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.tester.senate.gov/">Tester, Jon (D-MT)</a></td><td>Montana</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.thune.senate.gov/">Thune, John (R-SD)</a></td><td>South Dakota</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.tillis.senate.gov">Tillis, Thom (R-NC)</a></td><td>North Carolina</td><td>Republican</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.toomey.senate.gov/">Toomey, Patrick J. (R-PA)</a></td><td>Pennsylvania</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.tomudall.senate.gov">Udall, Tom (D-NM)</a></td><td>New Mexico</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.vanhollen.senate.gov">Van Hollen, Chris (D-MD)</a></td><td>Maryland</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.warner.senate.gov">Warner, Mark R. (D-VA)</a></td><td>Virginia</td><td>Democrat</td><td><span style="display: none;">2</span>Class II </td>
+</tr>
+<tr>
+<td><a href="http://www.warren.senate.gov">Warren, Elizabeth (D-MA)</a></td><td>Massachusetts</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.whitehouse.senate.gov/">Whitehouse, Sheldon (D-RI)</a></td><td>Rhode Island</td><td>Democrat</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.wicker.senate.gov">Wicker, Roger F. (R-MS)</a></td><td>Mississippi</td><td>Republican</td><td><span style="display: none;">1</span>Class I </td>
+</tr>
+<tr>
+<td><a href="http://www.wyden.senate.gov/">Wyden, Ron (D-OR)</a></td><td>Oregon</td><td>Democrat</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+<tr>
+<td><a href="http://www.young.senate.gov">Young, Todd (R-IN)</a></td><td>Indiana</td><td>Republican</td><td><span style="display: none;">3</span>Class III </td>
+</tr>
+</tbody>
+</table>
+
+<div style="clear:both"></div>
+<div align="right">
+<a class="teasertext" HREF="/reference/glossary_term/class.htm">What is a class?</a>
+</div>
+</div>
+<div style="clear:both"></div>
+<div class="contenttext mobile-show">
+<mobile_header>
+<a name="morelinks"></a><b>Additional Information about Current Senators</b>
+</mobile_header>
+</div>
+<!--
+      END MAIN
+    -->
+</div>
+<div id="secondary_col1" class="fluid">
+<!DOCTYPE noindex PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<noindex>
+<div class="fluid" id="senators">
+<ul>
+<li class="accordion-nochild">
+<a href="/general/contact_information/senators_cfm.cfm">Contact</a>
+</li>
+<li class="accordion-nochild">
+<a href="/senators/leadership.htm">Leadership &amp; Officers</a>
+</li>
+<li class="accordion-nochild">
+<a href="/senators/former_senators.htm">Former Senators</a>
+</li>
+<li class="accordion-nochild">
+<a href="/senators/qualifications_termsofservice.htm">Qualifications &amp; Terms of Service</a>
+</li>
+<li class="accordion-nochild">
+<a href="/senators/facts_milestones.htm">Facts &amp; Milestones</a>
+</li>
+<li class="accordion-nochild">
+<a href="/states/statesmap.htm">States</a>
+</li>
+</ul>
+</div>
+</noindex>
+
+<!--
+            BEGIN TEASERS
+          -->
+<!--****** current_facts_milestones.xml Version: 27.1 was generated at: Wednesday, February 13, 2019: 2:11 PM EST in folder: /Company Home/Sites/senategov/documentLibrary/Senate.gov/senators/teasers **--><aside class="fluid sidebar_link_container">
+<div class="fluid content_column_container">
+<h3>Information about Current Senators  </h3>
+<span style="padding-top:5px" class="teasertext">
+<p>The following lists from <a href="/senators/facts_milestones.htm">Facts &amp; Milestones</a> include current senators.</p>
+<p>
+<b>Senate Service</b>
+<br>
+            &bull; <a href="/senators/AppointedSenators.htm">Appointed Senators</a>
+<br>
+            &bull; <a href="/committees/membership.htm">Committee Membership</a>
+<br>
+            &bull; <a href="/senators/longest_serving_senators.htm">Longest Serving Senators</a>
+<br>
+           &bull; <a href="/senators/NewSenators.htm">New senators (2001-Present)</a>
+<br>
+            
+            &bull; <a href="/senators/SenateFreshmanSinceDirectElection.htm">Senate Freshman since Direct Election (1914)</a>
+<br>
+            &bull; <a href="/legislative/votes.htm">Senate Roll Call Votes</a>
+<br>
+            &bull; <a href="/senators/SenateSalariesSince1789.htm">Senate Salaries (1789-Present)</a>
+<br>
+
+            &bull; <a href="/senators/Senators1789toPresent.htm">Senators (1789-Present)</a>
+<br>
+            &bull; <a href="/senators/10000_or_more_votes.htm">Senators who have Cast more than 10,000 Votes</a>
+<br>
+            &bull; <a href="/senators/SenatorsWhoHaveDeliveredWashingtonsFarewellAddress.htm">Senators who have Delivered Washington's Farewell Address</a>
+</p>
+<p>
+<b>Political Parties</b>
+<br>
+            &bull; <a href="/senators/SenatorsRepresentingThirdorMinorParties.htm">Senators Representing Third or Minor Parties</a>
+<br>
+             &bull; <a href="/artandhistory/history/common/briefing/senators_changed_parties.htm">Senators who Changed Parties during Senate Service (since 1890)</a>
+</p>
+<p>
+<b>Diversity in the Senate</b>
+<br>
+                                             
+                &bull; <a href="/senators/Foreign_born.htm">Foreign-born Senators</a>
+<br>
+                &bull; <a href="/senators/EthnicDiversityintheSenate.htm">Ethnic Diversity in the Senate</a>
+<br>
+                &bull; <a href="/senators/ListofWomenSenators.htm">Women Senators</a>
+</p>
+<p>
+<b>Military &amp; Professional Service</b>
+<br>
+                &bull; <a href="/senators/MarinesintheSenate.htm">Marines in the Senate</a>
+<br>
+                &bull; <a href="/senators/PhysiciansintheSenate.htm">Physicians in the Senate </a>
+</p>
+<p>
+<b>Other Accomplishments</b>
+<br>
+                &bull; <a href="/senators/BooksWrittenbySittingSenators.htm">Books Written by Sitting Senators</a>
+</p>
+<p>
+<a href="/senators/facts_milestones.htm">Visit Facts &amp; Milestones for more lists about senators</a>
+</p>
+</span>
+</div>
+</aside>
+
+<br>
+<!--****** relatedlinks_senatorshomepage.xml Version: 7.1 was generated at: Thursday, May 16, 2019: 9:39 AM EDT in folder: /Company Home/Sites/senategov/documentLibrary/Senate.gov/senators/teasers **--><aside class="fluid sidebar_link_container">
+<div class="fluid content_column_container">
+<h3>Related Links </h3>
+<span style="padding-top:5px" class="teasertext">
+<p>
+                &bull; <i><a href="http://bioguide.congress.gov/biosearch/biosearch.asp" target="_blank">Biographical Directory</a></i>
+<br>
+               &bull; <i><a href="https://crsreports.congress.gov/product/pdf/R/R45583" target="_blank">Membership of the 116th Congress: A profile</a></i> (CRS) (pdf)
+             <!-- <a href="http://memberguide.gpo.gov/">Guide to House &amp; Senate members</a> (GPO)Update once 115th is out--></p>
+</span>
+</div>
+</aside>
+
+<br>
+<!--****** how_to_contact_senator_homepage.xml Version: 8.1 was generated at: Wednesday, March 27, 2019: 12:16 PM EDT in folder: /Company Home/Sites/senategov/documentLibrary/Senate.gov/senators/teasers **--><aside class="fluid sidebar_link_container">
+<div class="fluid content_column_container">
+<h3>How to Contact My Senator </h3>
+<span style="padding-top:5px" class="teasertext">
+<p>&#149; <a href="/general/contact_information/senators_cfm.cfm">Senators Contact List</a>
+<br>
+             &#149; <a href="/senators/How_to_correspond_senators.htm">How to Contact My Senator...</a> (Guide)</p>
+<p>Can't find your senator's name in the list of senators?  Perhaps he or she is a member of the <A href="http://www.house.gov/representatives/">U.S. House of Representatives</A>, a <a href="/senators/former_senators.htm">former senator</a>, or a senator in your <A href="http://www.loc.gov/rr/news/stategov/stategov.html">State Legislature</A>.
+
+                                                                </p>
+</span>
+</div>
+</aside>
+
+<br>
+<!--
+            END TEASERS
+          -->
+</div>
+<div id="social_background_white" class="fluid ">
+	<div id="logo_social_footer_center" class="fluid ">
+      <div id="footer_logo" class="fluid "><a href="/index.htm"><img src="/resources/images/senate_logo_footer.png" alt="Senate Logo"/></a></div>
+     </div>
+</div>
+</main>
+<footer id="footer" class="fluid gridContainer clearfix">
+      <div id="footer_menu_center">
+      
+      <div id="footer_menu_senators" >
+      	<h3><a href="/senators/contact/">SENATORS</a></h3>
+        <ul class="fluid fluidList footer_links">
+        <li><a href="/general/contact_information/senators_cfm.cfm">Contact</a></li>
+        <li><a href="/senators/leadership.htm">Leadership &amp; Officers</a></li>
+        <li><a href="/senators/former_senators.htm">Former Senators</a></li>
+        <li><a href="/senators/qualifications_termsofservice.htm">Qualifications &amp; Terms of Service</a></li>
+        <li><a href="/senators/facts_milestones.htm">Facts &amp; Milestones</a></li>
+          <li><a href="/senators/statesmap.htm">States</a></li>
+          
+          </ul>
+          
+         <div id="footer_menu_committees" >
+         <h3  style="padding-top: 75px;"><a href="/committees/committees_home.htm">COMMITTEES</a></h3>
+         <ul class="fluid fluidList footer_links">
+          <li><a href="/committees/membership_assignments.htm">Membership &amp; Assignments</a></li>
+          <li><a href="/committees/hearings_meetings.htm">Hearings &amp; Meetings</a></li>
+          <li><a href="/committees/history.htm">History</a></li>
+          </ul></div>
+          </div>
+          
+      <div id="footer_menu_legislation" >
+      <h3><a href="/legislative/legislative_home.htm">LEGISLATION &amp; <br>
+RECORDS</a></h3>
+        <ul class="fluid fluidList footer_links">
+          <li><a href="/legislative/bills_acts_laws.htm">Bills, Acts, & Laws</a></li>
+          <li><a href="/legislative/nominations_new.htm">Nominations</a></li>
+          <li><a href="/legislative/treaties_new.htm">Treaties</a></li>
+          <li><a href="/legislative/votes_new.htm">Votes</a></li>
+          <li><a href="/legislative/floor_activity_pail.htm">Floor Proceedings</a></li>
+          <li><a href="/legislative/rules_procedure.htm">Rules &amp; Procedure</a></li>
+          <li><a href="/legislative/landmark_legislation.htm">Landmark Legislation</a></li>
+          <li><a href="/legislative/sessions_of_congress.htm">Sessions of Congress</a></li>
+          <li><a href="/legislative/lobbyingdisc.htm#lobbyingdisc=lda">Public Disclosure</a></li>
+    
+          </ul></div>
+          
+      <div id="footer_menu_art" >
+      <h3><a href="/art/art_hist_home.htm">ART &amp; HISTORY</a></h3>
+        <ul class="fluid fluidList footer_links">
+          <li><a href="/history/people.htm">People</a></li>
+          <li><a href="/history/origins.htm">Institution</a></li>
+          <li><a href="/history/essays.htm">Senate Stories</a></li>
+		  <li><a href="/history/oralhistory.htm">Oral History Project</a></li>
+          <li><a href="/art/exhibits.htm">Special Features</a></li>
+          <li><a href="/art/paintings.htm">Paintings</a></li>
+          <li><a href="/art/sculpture.htm">Sculpture</a></li>
+          <li><a href="/art/graphicarts.htm">Prints, Drawings &amp; Photographs</a></li>
+		  <li><a href="/art/collections.htm">Furniture & Decorative Art</a></li>
+          <li><a href="/art/ephemera.htm">Ephemera & Historical Objects</a></li>
+          
+          </ul></div>
+          
+      <div id="footer_menu_reference" >
+      <h3><a href="/reference/reference_home.htm">REFERENCE</a></h3>
+        <ul class="fluid fluidList footer_links">
+          <li><a href="/reference/virtual.htm">Virtual Reference Desk</a></li>
+          <li><a href="/reference/stats_and_lists.htm">Statistics &amp; Lists</a></li>
+          <li><a href="/reference/biblio.htm">Bibliographies</a></li>
+          <li><a href="/reference/howto.htm">How To...</a></li>
+          <li><a href="/reference/glossary.htm">Glossary</a></li>
+          <li><a href="/reference/org_chart.htm">Senate Organization</a></li>
+          <li><a href="/civics/constitution_item/constitution.htm">The Constitution</a></li>
+          <li><a href="/visiting/procurement.htm">Procurement</a></li>
+          <li><a href="/visiting/employment.htm">Employment &amp; Internships</a></li>
+          <li><a href="/visiting/index.htm">Visiting</a></li>
+          </ul></div>
+	 </div>
+     
+     <div id="footer_legal" class="fluid " >
+          <p><!-- <span class="speaker legal"><a href="/general/common/generic/browsealoud.htm">BrowseAloud</a></span> &nbsp; | &nbsp; --> 
+          <a href="/general/contacting.htm">Contact</a> &nbsp; | &nbsp; 
+          <a href="/general/content_responsibility.htm">Content Responsibility</a> &nbsp; | &nbsp; 
+          <a href="/usage/internetpolicy.htm">Usage Policy</a> &nbsp; | &nbsp; 
+          <a href="/general/pdf_help.htm">PDF Help</a> &nbsp; | &nbsp; 
+          <a href="/general/privacy.htm">Privacy Policy</a> &nbsp; | &nbsp; 
+          <a href="/index.htm">www.senate.gov</a>
+          </p>
+          </div>
+     </footer>
+     
+     
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<script src="/wt_sdc/central_webtrends.load.js" type="text/javascript"></script>
+
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs222dj3ow9ji0ne9ojbcbng_3b8p/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.0&amp;dcssip=www.senate.gov"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</body>
+</html>

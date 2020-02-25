@@ -1,0 +1,902 @@
+[
+    {
+        "name": {
+            "first": "Lamar",
+            "last": "Alexander"
+        },
+        "state": "Tennessee",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Tammy",
+            "last": "Baldwin"
+        },
+        "state": "Wisconsin",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "John",
+            "last": "Barrasso"
+        },
+        "state": "Wyoming",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Michael F.",
+            "last": "Bennet"
+        },
+        "state": "Colorado",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Marsha",
+            "last": "Blackburn"
+        },
+        "state": "Tennessee",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Richard",
+            "last": "Blumenthal"
+        },
+        "state": "Connecticut",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Roy",
+            "last": "Blunt"
+        },
+        "state": "Missouri",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Cory A.",
+            "last": "Booker"
+        },
+        "state": "New Jersey",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "John",
+            "last": "Boozman"
+        },
+        "state": "Arkansas",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Mike",
+            "last": "Braun"
+        },
+        "state": "Indiana",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Sherrod",
+            "last": "Brown"
+        },
+        "state": "Ohio",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Richard",
+            "last": "Burr"
+        },
+        "state": "North Carolina",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Maria",
+            "last": "Cantwell"
+        },
+        "state": "Washington",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Shelley Moore",
+            "last": "Capito"
+        },
+        "state": "West Virginia",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Benjamin L.",
+            "last": "Cardin"
+        },
+        "state": "Maryland",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Thomas R.",
+            "last": "Carper"
+        },
+        "state": "Delaware",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Robert P., Jr.",
+            "last": "Casey"
+        },
+        "state": "Pennsylvania",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Bill",
+            "last": "Cassidy"
+        },
+        "state": "Louisiana",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Susan M.",
+            "last": "Collins"
+        },
+        "state": "Maine",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Christopher A.",
+            "last": "Coons"
+        },
+        "state": "Delaware",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "John",
+            "last": "Cornyn"
+        },
+        "state": "Texas",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Catherine",
+            "last": "Masto"
+        },
+        "state": "Nevada",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Tom",
+            "last": "Cotton"
+        },
+        "state": "Arkansas",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Kevin",
+            "last": "Cramer"
+        },
+        "state": "North Dakota",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Mike",
+            "last": "Crapo"
+        },
+        "state": "Idaho",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Ted",
+            "last": "Cruz"
+        },
+        "state": "Texas",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Steve",
+            "last": "Daines"
+        },
+        "state": "Montana",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Tammy",
+            "last": "Duckworth"
+        },
+        "state": "Illinois",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Richard J.",
+            "last": "Durbin"
+        },
+        "state": "Illinois",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Michael B.",
+            "last": "Enzi"
+        },
+        "state": "Wyoming",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Joni",
+            "last": "Ernst"
+        },
+        "state": "Iowa",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Dianne",
+            "last": "Feinstein"
+        },
+        "state": "California",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Deb",
+            "last": "Fischer"
+        },
+        "state": "Nebraska",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Cory",
+            "last": "Gardner"
+        },
+        "state": "Colorado",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Kirsten E.",
+            "last": "Gillibrand"
+        },
+        "state": "New York",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Lindsey",
+            "last": "Graham"
+        },
+        "state": "South Carolina",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Chuck",
+            "last": "Grassley"
+        },
+        "state": "Iowa",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Kamala D.",
+            "last": "Harris"
+        },
+        "state": "California",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Margaret Wood",
+            "last": "Hassan"
+        },
+        "state": "New Hampshire",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Josh",
+            "last": "Hawley"
+        },
+        "state": "Missouri",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Martin",
+            "last": "Heinrich"
+        },
+        "state": "New Mexico",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Mazie K.",
+            "last": "Hirono"
+        },
+        "state": "Hawaii",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "John",
+            "last": "Hoeven"
+        },
+        "state": "North Dakota",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Cindy",
+            "last": "Smith"
+        },
+        "state": "Mississippi",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "James M.",
+            "last": "Inhofe"
+        },
+        "state": "Oklahoma",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Ron",
+            "last": "Johnson"
+        },
+        "state": "Wisconsin",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Doug",
+            "last": "Jones"
+        },
+        "state": "Alabama",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Tim",
+            "last": "Kaine"
+        },
+        "state": "Virginia",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "John",
+            "last": "Kennedy"
+        },
+        "state": "Louisiana",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Angus S., Jr.",
+            "last": "King"
+        },
+        "state": "Maine",
+        "party": "Independent",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Amy",
+            "last": "Klobuchar"
+        },
+        "state": "Minnesota",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "James",
+            "last": "Lankford"
+        },
+        "state": "Oklahoma",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Patrick J.",
+            "last": "Leahy"
+        },
+        "state": "Vermont",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Mike",
+            "last": "Lee"
+        },
+        "state": "Utah",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Kelly",
+            "last": "Loeffler"
+        },
+        "state": "Georgia",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Joe, III",
+            "last": "Manchin"
+        },
+        "state": "West Virginia",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Edward J.",
+            "last": "Markey"
+        },
+        "state": "Massachusetts",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Mitch",
+            "last": "McConnell"
+        },
+        "state": "Kentucky",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Martha",
+            "last": "McSally"
+        },
+        "state": "Arizona",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Robert",
+            "last": "Menendez"
+        },
+        "state": "New Jersey",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Jeff",
+            "last": "Merkley"
+        },
+        "state": "Oregon",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Jerry",
+            "last": "Moran"
+        },
+        "state": "Kansas",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Lisa",
+            "last": "Murkowski"
+        },
+        "state": "Alaska",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Christopher",
+            "last": "Murphy"
+        },
+        "state": "Connecticut",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Patty",
+            "last": "Murray"
+        },
+        "state": "Washington",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Rand",
+            "last": "Paul"
+        },
+        "state": "Kentucky",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "David",
+            "last": "Perdue"
+        },
+        "state": "Georgia",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Gary C.",
+            "last": "Peters"
+        },
+        "state": "Michigan",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Rob",
+            "last": "Portman"
+        },
+        "state": "Ohio",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Jack",
+            "last": "Reed"
+        },
+        "state": "Rhode Island",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "James E.",
+            "last": "Risch"
+        },
+        "state": "Idaho",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Pat",
+            "last": "Roberts"
+        },
+        "state": "Kansas",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Mitt",
+            "last": "Romney"
+        },
+        "state": "Utah",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Jacky",
+            "last": "Rosen"
+        },
+        "state": "Nevada",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Mike",
+            "last": "Rounds"
+        },
+        "state": "South Dakota",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Marco",
+            "last": "Rubio"
+        },
+        "state": "Florida",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Bernard",
+            "last": "Sanders"
+        },
+        "state": "Vermont",
+        "party": "Independent",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Ben",
+            "last": "Sasse"
+        },
+        "state": "Nebraska",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Brian",
+            "last": "Schatz"
+        },
+        "state": "Hawaii",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Charles E.",
+            "last": "Schumer"
+        },
+        "state": "New York",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Rick",
+            "last": "Scott"
+        },
+        "state": "Florida",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Tim",
+            "last": "Scott"
+        },
+        "state": "South Carolina",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Jeanne",
+            "last": "Shaheen"
+        },
+        "state": "New Hampshire",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Richard C.",
+            "last": "Shelby"
+        },
+        "state": "Alabama",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Kyrsten",
+            "last": "Sinema"
+        },
+        "state": "Arizona",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Tina",
+            "last": "Smith"
+        },
+        "state": "Minnesota",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Debbie",
+            "last": "Stabenow"
+        },
+        "state": "Michigan",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Dan",
+            "last": "Sullivan"
+        },
+        "state": "Alaska",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Jon",
+            "last": "Tester"
+        },
+        "state": "Montana",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "John",
+            "last": "Thune"
+        },
+        "state": "South Dakota",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Thom",
+            "last": "Tillis"
+        },
+        "state": "North Carolina",
+        "party": "Republican",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Patrick J.",
+            "last": "Toomey"
+        },
+        "state": "Pennsylvania",
+        "party": "Republican",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Tom",
+            "last": "Udall"
+        },
+        "state": "New Mexico",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Chris",
+            "last": "Hollen"
+        },
+        "state": "Maryland",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Mark R.",
+            "last": "Warner"
+        },
+        "state": "Virginia",
+        "party": "Democrat",
+        "class": "Class II"
+    },
+    {
+        "name": {
+            "first": "Elizabeth",
+            "last": "Warren"
+        },
+        "state": "Massachusetts",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Sheldon",
+            "last": "Whitehouse"
+        },
+        "state": "Rhode Island",
+        "party": "Democrat",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Roger F.",
+            "last": "Wicker"
+        },
+        "state": "Mississippi",
+        "party": "Republican",
+        "class": "Class I"
+    },
+    {
+        "name": {
+            "first": "Ron",
+            "last": "Wyden"
+        },
+        "state": "Oregon",
+        "party": "Democrat",
+        "class": "Class III"
+    },
+    {
+        "name": {
+            "first": "Todd",
+            "last": "Young"
+        },
+        "state": "Indiana",
+        "party": "Republican",
+        "class": "Class III"
+    }
+]
